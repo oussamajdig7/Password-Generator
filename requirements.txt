@@ -1,0 +1,2 @@
+# No external packages are required.
+# All modules used (`secrets`, `string`) are part of Python's standard library.
